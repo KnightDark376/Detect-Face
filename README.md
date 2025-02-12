@@ -1,2 +1,2 @@
-# NhanDien
-Nhận diện khuôn mặt với opencv
+# Detect
+Detect face with opencv
